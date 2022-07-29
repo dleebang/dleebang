@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! 👋
+#### My name is Davi Lee Bang and I'm a data scientist and researcher 
+
+- 🌱 I’m currently learning Python, R, and SQL 
+- 😄 Pronouns: he/his
+
 
 <!--
 **dleebang/dleebang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
