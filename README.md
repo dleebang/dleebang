@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on end-to-end data science projects. From exploratory data analysis to machine learning models.
 
-- 🌱 Currently learning Python, R, and SQL 
+- 🌱 Currently learning Python, R, and SQL. 
 
 ##
 
